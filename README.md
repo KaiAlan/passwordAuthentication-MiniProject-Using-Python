@@ -1,6 +1,6 @@
 # passwordAuthentication-MiniProject-Using-Python
 
-This is a mini project on Password Authentication With using the File Handling and Cryptography Hashing
+This is a mini project on Password Authentication With the help of File Handling and Cryptography Hashing
 
 <h2>passwordAuthentication.py
 <h5>This file Contains the source code
