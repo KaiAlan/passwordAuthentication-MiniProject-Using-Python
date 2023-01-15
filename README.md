@@ -16,3 +16,13 @@ also imported cryptography and getpass
 <h2>passwordAuth.key
 
 <h5>This file contains the Specific key using Which all the passwords are hashed together
+
+<h3>Testing
+
+<h6>User: Aryan Kumar| Password: Aryan01#
+
+User: Mohit| Password: idk12
+
+User: Mocha| Password: Mochi
+
+use the above for testing(same as the passwordAuth.txt contains)
